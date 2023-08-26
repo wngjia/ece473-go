@@ -1,0 +1,10 @@
+go 1.19
+
+use (
+	./func
+	./map
+	./oo
+	./rand
+	./slice
+	./swap
+)
